@@ -1,0 +1,7 @@
+C:\kate\study\10\загарія\pap\lab1\lab1\bin\Debug\lab1.exe.config
+C:\kate\study\10\загарія\pap\lab1\lab1\bin\Debug\lab1.exe
+C:\kate\study\10\загарія\pap\lab1\lab1\bin\Debug\lab1.pdb
+C:\kate\study\10\загарія\pap\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\kate\study\10\загарія\pap\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\kate\study\10\загарія\pap\lab1\lab1\obj\Debug\lab1.exe
+C:\kate\study\10\загарія\pap\lab1\lab1\obj\Debug\lab1.pdb

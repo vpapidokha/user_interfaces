@@ -1,0 +1,10 @@
+C:\kate\study\10\загарія\pap2\pap2\bin\Debug\pap2.exe.config
+C:\kate\study\10\загарія\pap2\pap2\bin\Debug\pap2.exe
+C:\kate\study\10\загарія\pap2\pap2\bin\Debug\pap2.pdb
+C:\kate\study\10\загарія\pap2\pap2\obj\Debug\pap2.csprojAssemblyReference.cache
+C:\kate\study\10\загарія\pap2\pap2\obj\Debug\pap2.Form1.resources
+C:\kate\study\10\загарія\pap2\pap2\obj\Debug\pap2.Properties.Resources.resources
+C:\kate\study\10\загарія\pap2\pap2\obj\Debug\pap2.csproj.GenerateResource.cache
+C:\kate\study\10\загарія\pap2\pap2\obj\Debug\pap2.csproj.CoreCompileInputs.cache
+C:\kate\study\10\загарія\pap2\pap2\obj\Debug\pap2.exe
+C:\kate\study\10\загарія\pap2\pap2\obj\Debug\pap2.pdb
